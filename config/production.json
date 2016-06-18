@@ -1,0 +1,10 @@
+{
+  "dbURL":"mongodb://dovahkrid:123456@ds019033.mlab.com:19033/chatwtf",
+  "sessionSecret":"wtf",
+  "fb":{
+    "appID":"1589775048019731",
+    "appSecret":"0341be0946e4ebcf34622f8c06dfcb70",
+    "callbackURL":"http://infinitychat.herokuapp.com/auth/facebook/callback"
+  },
+  "host":"http://infinitychat.herokuapp.com"
+}

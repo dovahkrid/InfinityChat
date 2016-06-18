@@ -1,0 +1,21 @@
+{
+  "name": "chatwtf",
+  "version": "0.0.1",
+  "description": "First chat app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "PhuTran",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^1.2.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.19",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "socket.io": "^1.4.6"
+  }
+}
